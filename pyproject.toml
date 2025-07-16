@@ -3,3 +3,4 @@ name = "pyside6-getting-started"
 version = "0.1.0"
 description = "Qt PySide6 getting started with simple GUI examples using Python3."
 requires-python = ">=3.10"
+# keep defaults in sync with the manifest
